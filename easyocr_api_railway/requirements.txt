@@ -1,6 +1,9 @@
-Flask
+flask
 ultralytics
-easyocr
+paddlepaddle
+paddleocr
 opencv-python-headless
 numpy
+requests
+python-dotenv
 gunicorn
